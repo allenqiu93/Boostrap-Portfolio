@@ -1,0 +1,46 @@
+.hey{
+    margin-bottom:5%;
+}
+.gray{
+    background-color:gray;
+}
+.two{
+    margin-top:5%;
+}
+.two img{
+    width:95%;
+    height:95%;
+}
+.three{
+    margin-top:5%;
+}
+.blue{
+    background-color:blue;
+    border:black solid 2px;
+}
+.yellow{
+    background-color:yellow;
+    border:black solid 2px;
+}
+.red{
+    background-color:red;
+    border:black solid 2px;
+}
+.green{
+    background-color:green;
+    border:black solid 2px;
+}
+.orange{
+    background-color:orange;
+    border:black solid 2px;
+}
+.teal{
+    background-color:teal;
+    border:black solid 2px;
+}
+.footer{
+    background-color:pink;
+}
+.footer h2{
+    text-align:center;
+}
